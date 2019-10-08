@@ -5,7 +5,7 @@ This is the Simple React Router V4 with Redux implementation example For underst
 
 git clone https://github.com/hiteshdev115/React-Rv4-with-redux.git
 
-#After clone this repository you can simple run following command
+# After clone this repository you can simple run following command
 
 npm install
 
@@ -17,6 +17,6 @@ npm update
 
 npm start
 
-#Let me know if you have any questions about this example so please email me on
+# Let me know if you have any questions about this example so please email me on
 
 Email : hk.121988@gmail.com
